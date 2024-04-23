@@ -1,0 +1,14 @@
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\bin\Debug\net6.0\PersonaApp.exe
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\bin\Debug\net6.0\PersonaApp.deps.json
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\bin\Debug\net6.0\PersonaApp.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\bin\Debug\net6.0\PersonaApp.dll
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\bin\Debug\net6.0\PersonaApp.pdb
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.dll
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\refint\PersonaApp.dll
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.pdb
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\PersonaApp.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\PersonaApp\PersonaApp\obj\Debug\net6.0\ref\PersonaApp.dll

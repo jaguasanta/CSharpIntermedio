@@ -1,0 +1,14 @@
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\bin\Debug\net6.0\EstudianteAPP.exe
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\bin\Debug\net6.0\EstudianteAPP.deps.json
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\bin\Debug\net6.0\EstudianteAPP.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\bin\Debug\net6.0\EstudianteAPP.dll
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\bin\Debug\net6.0\EstudianteAPP.pdb
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.dll
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\refint\EstudianteAPP.dll
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.pdb
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\EstudianteAPP.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\EstudianteAPP\EstudianteAPP\obj\Debug\net6.0\ref\EstudianteAPP.dll

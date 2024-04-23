@@ -1,0 +1,14 @@
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\bin\Debug\net6.0\CalculoAreaAPP.exe
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\bin\Debug\net6.0\CalculoAreaAPP.deps.json
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\bin\Debug\net6.0\CalculoAreaAPP.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\bin\Debug\net6.0\CalculoAreaAPP.dll
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\bin\Debug\net6.0\CalculoAreaAPP.pdb
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.dll
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\refint\CalculoAreaAPP.dll
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.pdb
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\CalculoAreaAPP.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\CalculoAreaAPP\CalculoAreaAPP\obj\Debug\net6.0\ref\CalculoAreaAPP.dll

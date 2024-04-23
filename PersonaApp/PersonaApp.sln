@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonaApp", "PersonaApp\PersonaApp.csproj", "{827828C9-FA4E-4B6F-8E43-A017A5889F98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827828C9-FA4E-4B6F-8E43-A017A5889F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827828C9-FA4E-4B6F-8E43-A017A5889F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827828C9-FA4E-4B6F-8E43-A017A5889F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827828C9-FA4E-4B6F-8E43-A017A5889F98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE173800-E5F2-48A1-BA19-52FE3E143623}
+	EndGlobalSection
+EndGlobal
