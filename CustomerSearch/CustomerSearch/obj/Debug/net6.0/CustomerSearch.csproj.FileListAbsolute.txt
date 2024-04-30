@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.sourcelink.json
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\bin\Debug\net6.0\CustomerSearch.exe
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\bin\Debug\net6.0\CustomerSearch.deps.json
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\bin\Debug\net6.0\CustomerSearch.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\bin\Debug\net6.0\CustomerSearch.dll
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\bin\Debug\net6.0\CustomerSearch.pdb
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.dll
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\refint\CustomerSearch.dll
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.pdb
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\CustomerSearch.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\CustomerSearch\CustomerSearch\obj\Debug\net6.0\ref\CustomerSearch.dll

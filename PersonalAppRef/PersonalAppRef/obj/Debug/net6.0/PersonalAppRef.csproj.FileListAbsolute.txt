@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.sourcelink.json
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\bin\Debug\net6.0\PersonalAppRef.exe
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\bin\Debug\net6.0\PersonalAppRef.deps.json
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\bin\Debug\net6.0\PersonalAppRef.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\bin\Debug\net6.0\PersonalAppRef.dll
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\bin\Debug\net6.0\PersonalAppRef.pdb
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.dll
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\refint\PersonalAppRef.dll
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.pdb
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\PersonalAppRef.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\PersonalAppRef\PersonalAppRef\obj\Debug\net6.0\ref\PersonalAppRef.dll

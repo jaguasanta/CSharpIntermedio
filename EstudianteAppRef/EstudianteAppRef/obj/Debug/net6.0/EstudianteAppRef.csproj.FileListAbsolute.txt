@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.sourcelink.json
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\bin\Debug\net6.0\EstudianteAppRef.exe
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\bin\Debug\net6.0\EstudianteAppRef.deps.json
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\bin\Debug\net6.0\EstudianteAppRef.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\bin\Debug\net6.0\EstudianteAppRef.dll
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\bin\Debug\net6.0\EstudianteAppRef.pdb
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.dll
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\refint\EstudianteAppRef.dll
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.pdb
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\EstudianteAppRef.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\EstudianteAppRef\EstudianteAppRef\obj\Debug\net6.0\ref\EstudianteAppRef.dll
