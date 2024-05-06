@@ -1,22 +1,17 @@
-﻿using System;
-
-namespace EnvioCorreoElectronicoApp.Clases
+﻿namespace EnvioCorreoElectronicoApp.Clases
 {
-    public class Persona
+    public abstract class Persona
     {
 
-        private string nombre;
-        private int edad;
-        private string direccion;
-        private string correoElectronico;
+        public string nombre { get; set; }
 
-        public void ImprimirDatos()
-        {
-            Console.WriteLine($"Nombre: {nombre}");
-            Console.WriteLine($"Edad: {edad}");
-            Console.WriteLine($"Direccion: {direccion}");
-            Console.WriteLine($"Correo Electronico: {correoElectronico}");
-        }
+        public int edad { get; set; }
+
+        public string direccion { get; set; }
+
+        public string correElectronico { get; set; }
+
+        public abstract void ImprimirDatos();
 
     }
 }

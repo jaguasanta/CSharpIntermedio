@@ -4,10 +4,19 @@ namespace EnvioCorreoElectronicoApp.Clases
 {
     public class CorreoElectronico
     {
+        public string correoElectronico { get; set; }
 
-        public void EnviarCorreoElectronico(string destinatario, string mensaje)
+        public string mensaje { get; set; }
+        public CorreoElectronico(string correoElectronico, string mensaje)
         {
-            // Lógica para enviar el correo electrónico
+            
+            this.correoElectronico = correoElectronico;
+            this.mensaje = mensaje;
+
+        }
+        public void EnviarCorreoElectronico(string correoElectronico, string mensaje)
+        {
+            Console.WriteLine("Correo Electronico: " + this.correoElectronico + " Mensaje Enviado: " + this.mensaje);
         }
 
     }
