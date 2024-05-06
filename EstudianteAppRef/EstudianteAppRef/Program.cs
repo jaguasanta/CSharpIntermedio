@@ -11,11 +11,12 @@ class Program
         string carrera = "Ingenieria de Sistemas";
         string matricula = "87-0185";
 
-        Estudiante julio = new Estudiante(nombre, anoNacimiento, ciudad, carrera, matricula);
+        Persona julio = new PersonaEjemplo(nombre, anoNacimiento, ciudad);
+        Estudiante julio1 = new Estudiante(carrera, matricula);
 
-        julio.MostrarDatos(nombre, anoNacimiento,ciudad);
+        julio1.MostrarDatos(julio);
 
-        Console.WriteLine("Edadd de " + julio.Nombre + ": " + julio.ObtenerEdad(anoNacimiento) + " años");
+        Console.WriteLine("Edad de " + julio.Nombre + ": " + julio.ObtenerEdad(anoNacimiento) + " años");
 
     }
 }

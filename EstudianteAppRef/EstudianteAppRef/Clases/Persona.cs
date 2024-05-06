@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace EstudianteAppRef.Clases
+﻿namespace EstudianteAppRef.Clases
 {
     public abstract class Persona
     {
@@ -8,14 +6,7 @@ namespace EstudianteAppRef.Clases
         public int Anonacimiento { get; set; }
         public string Ciudad { get; set; }
 
-        public Persona(string nombre, int anonacimiento, string ciudad)
-        {
-            this.Nombre = nombre;
-            this.Anonacimiento = anonacimiento;
-            this.Ciudad = ciudad;
-        }
-
-        public abstract void MostrarDatos(string Nombre, int AnoNacimiento, string Ciudad);
+        public abstract void MostrarDatos(Persona persona);
 
         public int ObtenerEdad(int anoNacimiento)
         {

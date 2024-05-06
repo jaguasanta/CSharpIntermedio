@@ -8,7 +8,7 @@ namespace PersonalAppRef.Clases
             base(Nombre, Anonacimiento, Ciudad)
         {
         }
-        public override void MostrarDatos(string Nombre, int AnoNacimiento, string Ciudad)
+        public override void MostrarDatos(string Nombre, int Anonacimiento, string Ciudad)
         {
             Console.WriteLine($"Nombre: {Nombre}");
             Console.WriteLine($"Ano Nacimiento: {Anonacimiento}");

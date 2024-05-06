@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnvioCorreoElectronicoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f61ebcd8ae05692f7862bd5b0aa040020f36b742")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c665b918b5cd47a943dbd63f0d2159d2f84f7d13")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnvioCorreoElectronicoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnvioCorreoElectronicoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

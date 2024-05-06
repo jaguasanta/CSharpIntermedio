@@ -8,10 +8,10 @@ class Program
         int anoNacimiento = 1971;
         string ciudad = "Santo Domingo";
 
-        Persona persona1 = new PersonaEjemplo(nombre, anoNacimiento, ciudad);
-        persona1.MostrarDatos(nombre, anoNacimiento, ciudad);
-
-        int edadActual = persona1.ObtenerEdad(anoNacimiento);
+        Persona julio = new PersonaEjemplo(nombre, anoNacimiento, ciudad);
+        julio.MostrarDatos(nombre, anoNacimiento, ciudad);
+                
+        int edadActual = julio.ObtenerEdad(anoNacimiento);
         Console.WriteLine($"Edad actual: {edadActual} años");
     }
 }

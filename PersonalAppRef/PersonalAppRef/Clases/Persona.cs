@@ -15,7 +15,7 @@ namespace PersonalAppRef.Clases
             this.Ciudad = ciudad;
         }
 
-        public abstract void MostrarDatos(string Nombre, int AnoNacimiento, string Ciudad);
+        public abstract void MostrarDatos(string nombre, int anonacimiento, string ciudad);
         
         public int ObtenerEdad(int anoNacimiento)
         {
