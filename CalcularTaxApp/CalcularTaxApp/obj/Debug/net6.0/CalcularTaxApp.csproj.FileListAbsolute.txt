@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.sourcelink.json
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\bin\Debug\net6.0\CalcularTaxApp.exe
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\bin\Debug\net6.0\CalcularTaxApp.deps.json
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\bin\Debug\net6.0\CalcularTaxApp.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\bin\Debug\net6.0\CalcularTaxApp.dll
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\bin\Debug\net6.0\CalcularTaxApp.pdb
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.dll
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\refint\CalcularTaxApp.dll
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.pdb
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\CalcularTaxApp.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\CalcularTaxApp\CalcularTaxApp\obj\Debug\net6.0\ref\CalcularTaxApp.dll
