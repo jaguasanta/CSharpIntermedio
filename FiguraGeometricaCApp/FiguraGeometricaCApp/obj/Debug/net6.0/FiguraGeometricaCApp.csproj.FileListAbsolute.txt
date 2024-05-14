@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.sourcelink.json
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\bin\Debug\net6.0\FiguraGeometricaCApp.exe
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\bin\Debug\net6.0\FiguraGeometricaCApp.deps.json
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\bin\Debug\net6.0\FiguraGeometricaCApp.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\bin\Debug\net6.0\FiguraGeometricaCApp.dll
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\bin\Debug\net6.0\FiguraGeometricaCApp.pdb
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.dll
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\refint\FiguraGeometricaCApp.dll
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.pdb
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\FiguraGeometricaCApp.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\FiguraGeometricaCApp\FiguraGeometricaCApp\obj\Debug\net6.0\ref\FiguraGeometricaCApp.dll

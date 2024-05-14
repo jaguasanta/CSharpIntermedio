@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\bin\Debug\net6.0\CustomerServiceApp.exe
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\bin\Debug\net6.0\CustomerServiceApp.deps.json
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\bin\Debug\net6.0\CustomerServiceApp.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\bin\Debug\net6.0\CustomerServiceApp.dll
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\bin\Debug\net6.0\CustomerServiceApp.pdb
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.sourcelink.json
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.dll
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\refint\CustomerServiceApp.dll
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.pdb
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\CustomerServiceApp.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\CustomerServiceApp\CustomerServiceApp\obj\Debug\net6.0\ref\CustomerServiceApp.dll

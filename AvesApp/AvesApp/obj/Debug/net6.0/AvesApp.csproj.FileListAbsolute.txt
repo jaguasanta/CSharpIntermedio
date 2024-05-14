@@ -1,0 +1,15 @@
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.AssemblyInfoInputs.cache
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.AssemblyInfo.cs
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.csproj.CoreCompileInputs.cache
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.sourcelink.json
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\bin\Debug\net6.0\AvesApp.exe
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\bin\Debug\net6.0\AvesApp.deps.json
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\bin\Debug\net6.0\AvesApp.runtimeconfig.json
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\bin\Debug\net6.0\AvesApp.dll
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\bin\Debug\net6.0\AvesApp.pdb
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.dll
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\refint\AvesApp.dll
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.pdb
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\AvesApp.genruntimeconfig.cache
+C:\Pjs\CSharpIntermedio\AvesApp\AvesApp\obj\Debug\net6.0\ref\AvesApp.dll
